@@ -1,0 +1,6 @@
+{
+  "name": "Missed-Opportunity Agent",
+  "description": "An AI agent that tracks forgotten projects, drafts, digital footprints, and warm contacts, calculating their recovery score to trigger sunk-cost recovery and turn unrealized leverage into ROI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
